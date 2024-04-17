@@ -1,0 +1,14 @@
+{
+  "Event": [
+    {
+      "PutRequest": {
+        "Item": {
+          "event_id": { "S": "012827" },
+          "competition_id": { "S": "012827" },
+          "date_time": { "S": "2024-04-16 17:00" },
+          "teams": { "SS": ["Borussia Dortmund", "Atletico Madrid", "Barcelona", "Paris Saint Germain"] }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Equipo": [
+    {
+      "PutRequest": {
+        "Item": {
+          "team_id": { "S": "Borussia Dortmund" },
+          "name": { "S": "Borussia Dortmund" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "team_id": { "S": "Atletico Madrid" },
+          "name": { "S": "Atletico Madrid" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "team_id": { "S": "Barcelona" },
+          "name": { "S": "Barcelona" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "team_id": { "S": "Paris Saint Germain" },
+          "name": { "S": "Paris Saint Germain" }
+        }
+      }
+    }
+  ]
+}
